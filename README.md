@@ -1,7 +1,7 @@
 # Data-Mastery-Insights
 
 ## Overview
-This repository encapsulates comprehensive analyses and implementations of advanced data approaches. The project integrates  data visualization techniques with data mining algorithms: Clustering, Weighted KNN, Neural Networks, and Association Analysis. and   visualizes complex data sets using programmatically generated plots and diagrams, choosing the best visualization for a certain data set given its characteristics.
+This repository encapsulates comprehensive analyses and implementations of advanced data approaches. The project implements classical algorithms: Clustering, Weighted KNN, Neural Networks, and Association Analysis to create data mining models and generate statistical predictions. 
 
 ## Contents
 1. **Code:** Each folder contains the main Python script (`.py`) which is the entire pipeline, including data loading, preprocessing, visualization, and evaluation
